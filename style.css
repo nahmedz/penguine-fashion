@@ -1,0 +1,28 @@
+.primary-text {
+  font-family: "Bebas Neue", cursive;
+  color: #363958;
+  font-size: 70px;
+}
+
+.primary-text1 {
+  font-family: "Bebas Neue", cursive;
+  color: #76c27e;
+  font-size: 70px;
+}
+
+.button-custom {
+  background-color: #363958;
+}
+
+.price-tag {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #76c27e;
+}
+
+h2,
+h5 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #363958;
+}
